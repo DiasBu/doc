@@ -1,2 +1,2 @@
-Realizando o 4º exercício de web rep.  para o FREECODCAMP! para acessar clink no link:
+Realizando o 5º exercício para o FREECODCAMP - Design responsivo para a web. caso queria acessar, basta clicar no link: 
 https://diasbu.github.io/doc/
